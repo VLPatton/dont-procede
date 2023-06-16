@@ -1,4 +1,5 @@
 # Don't Procede
+NOTE: This is very much in early WIP stages
 ## video game idea
 Basic game elements:
 * Procedurally generated, random landscape
